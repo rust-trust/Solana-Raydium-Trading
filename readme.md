@@ -19,8 +19,3 @@ pip install requirements.txt
 ``` 
 
 
-## 💰 Support My Work
-If these scripts have helped you, please consider supporting my work. Your support will help me continue to develop these tools and create more useful resources for the crypto community.
-
-- 🚀 henrytirla.sol:   FJRDY392XSyfV9nFZC8SZij1hB3hsH121pCQi1KrvH6b
-
